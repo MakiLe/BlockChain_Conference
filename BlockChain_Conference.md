@@ -20,4 +20,5 @@ breaches.
 7. [Network] Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis
    - As Blockchain networks evolve to industrial deployments with large numbers of geographically distributed nodes, **the block transfer and processing delays** arise as a critical issue 
    - analyze the impact of the block dissemination delay and hashing power of the member nodes on Blockchain performance in terms of **the overall block generation rate and required computational power for launching a successful attack**.
+
 总结：以上为近几年InfoCom在区块链领域的论文，大部分都是提出分析模型，少部分是针对某一个场景设计新的模型，或是全新的共识算法（个人以为这个要求的数学基础最高）。
